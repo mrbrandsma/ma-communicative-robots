@@ -1,0 +1,3746 @@
+[
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 3,
+      "statement": 6,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 2,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 8,
+      "expressive": 11,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 1,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "other",
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 2,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 2,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 1,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 1,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 1,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 1,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 1,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 1,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 0,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "assertive",
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 0,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 1,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 1,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive",
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 1,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 2,
+      "opinion": 0,
+      "statement": 5,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 1,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 1,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 5,
+      "expressive": 7,
+      "directive": 2,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 1,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive",
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 2,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 2,
+      "statement": 9,
+      "back-channeling": 1,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 2,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 1,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 11,
+      "expressive": 13,
+      "directive": 0,
+      "other": 1,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 5,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 2,
+      "statement": 8,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 13,
+      "expressive": 10,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 1,
+      "opinion": 1,
+      "statement": 6,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 1,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 6,
+      "expressive": 8,
+      "directive": 1,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 2,
+      "statement": 5,
+      "back-channeling": 0,
+      "yes_no_question": 1,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 2,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 7,
+      "expressive": 8,
+      "directive": 0,
+      "other": 0,
+      "declarative": 2
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 3,
+      "statement": 5,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 2,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 6,
+      "expressive": 10,
+      "directive": 0,
+      "other": 1,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 1,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 1,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 2,
+      "expressive": 1,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 3,
+      "statement": 8,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 1,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 1,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 9,
+      "expressive": 13,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 3,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 3,
+      "statement": 5,
+      "back-channeling": 0,
+      "yes_no_question": 2,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 1,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 1,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 10,
+      "expressive": 11,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 1,
+      "opinion": 4,
+      "statement": 4,
+      "back-channeling": 1,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 2,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 1,
+      "complaint": 2,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 1,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 6,
+      "expressive": 13,
+      "directive": 1,
+      "other": 3,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 4,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 4,
+      "statement": 3,
+      "back-channeling": 0,
+      "yes_no_question": 3,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 1,
+      "complaint": 0,
+      "abandon": 2,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 11,
+      "expressive": 11,
+      "directive": 0,
+      "other": 2,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 6,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 6,
+      "back-channeling": 0,
+      "yes_no_question": 1,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 3,
+      "complaint": 3,
+      "abandon": 1,
+      "dev_command": 1,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 16,
+      "expressive": 13,
+      "directive": 1,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 3,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 3,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 1,
+      "opinion": 1,
+      "statement": 5,
+      "back-channeling": 0,
+      "yes_no_question": 2,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 1,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 1,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 8,
+      "expressive": 9,
+      "directive": 1,
+      "other": 1,
+      "declarative": 2
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 2,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 4,
+      "statement": 8,
+      "back-channeling": 0,
+      "yes_no_question": 1,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 2,
+      "hold": 0,
+      "closing": 2,
+      "comment": 1,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 12,
+      "expressive": 16,
+      "directive": 0,
+      "other": 0,
+      "declarative": 2
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 2,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 4,
+      "statement": 6,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 2,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 8,
+      "expressive": 12,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 1,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 2,
+      "expressive": 2,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 1,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 1,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 2,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 5,
+      "statement": 4,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 5,
+      "comment": 2,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 6,
+      "expressive": 11,
+      "directive": 0,
+      "other": 0,
+      "declarative": 5
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 1,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 1,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "directive",
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 2,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 2,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 1,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 2,
+      "expressive": 2,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 1,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive",
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 1,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 1,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive",
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 2,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 3,
+      "expressive": 2,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 1,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 0,
+      "directive": 0,
+      "other": 1,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "assertive",
+      "other",
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 2,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 3,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 1,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 4,
+      "directive": 2,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 1,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 3,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 7,
+      "statement": 17,
+      "back-channeling": 0,
+      "yes_no_question": 3,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 2,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 1,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 24,
+      "expressive": 30,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 2,
+      "pos_answer": 0,
+      "command": 1,
+      "opinion": 4,
+      "statement": 8,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 1,
+      "hold": 0,
+      "closing": 0,
+      "comment": 1,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 11,
+      "expressive": 14,
+      "directive": 1,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 1,
+      "statement": 2,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 1,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 1,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 2,
+      "expressive": 5,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 1,
+      "statement": 3,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 1,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 3,
+      "expressive": 4,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 1,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 0,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "assertive",
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 2,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 1,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 4,
+      "expressive": 2,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 3,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 1,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 3,
+      "expressive": 4,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 5,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 2,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 5,
+      "expressive": 7,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 7,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 7,
+      "expressive": 7,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 2,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 1,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 1,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 1,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 1,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 3,
+      "expressive": 3,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 2,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 1,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 2,
+      "expressive": 3,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 1,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 1,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 1,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 1,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 0,
+      "directive": 1,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "assertive",
+      "directive",
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 1,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 2,
+      "expressive": 1,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 1,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 1,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 1,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 2,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 1,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 1,
+      "directive": 0,
+      "other": 1,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive",
+      "other",
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 5,
+      "back-channeling": 1,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 2,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 3,
+      "abandon": 3,
+      "dev_command": 1,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 5,
+      "expressive": 8,
+      "directive": 1,
+      "other": 4,
+      "declarative": 2
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 1,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 2,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 1,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive",
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 5,
+      "statement": 3,
+      "back-channeling": 3,
+      "yes_no_question": 0,
+      "appreciation": 1,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 4,
+      "expressive": 9,
+      "directive": 0,
+      "other": 4,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 2,
+      "statement": 2,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 1,
+      "neg_answer": 0,
+      "complaint": 1,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 3,
+      "expressive": 6,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 1,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 5,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 0,
+      "declarative": 5
+    },
+    "conv_intention": [
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 2,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 1,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 1,
+      "directive": 0,
+      "other": 0,
+      "declarative": 3
+    },
+    "conv_intention": [
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 1,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 1,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 2,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 3,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 1,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 3,
+      "expressive": 4,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 3,
+      "back-channeling": 1,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 3,
+      "expressive": 3,
+      "directive": 0,
+      "other": 2,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 3,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 2,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 4,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 6,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 3,
+      "expressive": 3,
+      "directive": 0,
+      "other": 4,
+      "declarative": 8
+    },
+    "conv_intention": [
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 1,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 2,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 1,
+      "statement": 5,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 1,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 5,
+      "expressive": 6,
+      "directive": 0,
+      "other": 1,
+      "declarative": 2
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 3,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 3,
+      "comment": 1,
+      "neg_answer": 0,
+      "complaint": 1,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 4,
+      "expressive": 5,
+      "directive": 0,
+      "other": 1,
+      "declarative": 3
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 2,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 3,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 1,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 3,
+      "directive": 0,
+      "other": 3,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "expressive",
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 2,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 2,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 1,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 1,
+      "directive": 0,
+      "other": 1,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive",
+      "other",
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 1,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 1,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 1,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 1,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "assertive",
+      "expressive",
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 1,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 1,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "other"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 1,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 0,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 1,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 1,
+      "expressive": 2,
+      "directive": 0,
+      "other": 0,
+      "declarative": 0
+    },
+    "conv_intention": [
+      "expressive"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 1,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 1,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "other",
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "declarative"
+    ]
+  },
+  {
+    "distribution_classifier": {
+      "open_question_factual": 0,
+      "pos_answer": 0,
+      "command": 0,
+      "opinion": 0,
+      "statement": 0,
+      "back-channeling": 0,
+      "yes_no_question": 0,
+      "appreciation": 0,
+      "other_answers": 0,
+      "thanking": 0,
+      "open_question_opinion": 0,
+      "hold": 0,
+      "closing": 1,
+      "comment": 0,
+      "neg_answer": 0,
+      "complaint": 0,
+      "abandon": 0,
+      "dev_command": 0,
+      "apology": 0,
+      "nonsense": 0,
+      "other": 0,
+      "opening": 0,
+      "respond_to_apology": 0
+    },
+    "distribution_searle": {
+      "assertive": 0,
+      "expressive": 0,
+      "directive": 0,
+      "other": 0,
+      "declarative": 1
+    },
+    "conv_intention": [
+      "declarative"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+DISTRIBUTION SEARLE SPEECH ACTS:
+assertive: 35
+commissive: 0
+directive: 2
+declarative: 25
+expressive: 56
+other: 26
+
+This dataset is characterized by the intention(s): ['expressive']
